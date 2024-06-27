@@ -1,0 +1,14 @@
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\bin\Debug\net8.0\Entities.dll
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\bin\Debug\net8.0\Entities.pdb
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\Entities.dll
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\Entities.pdb
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Entities\obj\Debug\net8.0\ref\Entities.dll

@@ -1,0 +1,15 @@
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\bin\Debug\net8.0\Domain.dll
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\bin\Debug\net8.0\Entities.dll
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\bin\Debug\net8.0\Entities.pdb
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\Domain.dll
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Repositorio\ECommerce\E-Com.Server\E-Commerce\Domain\obj\Debug\net8.0\ref\Domain.dll
